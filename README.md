@@ -1,3 +1,10 @@
+# First Frame example: 
+Flipping Coin 
+
+## Images: 
+ <!-- // add image from /local image.png -->
+ 
+
 ```
 npm install
 npm run dev
